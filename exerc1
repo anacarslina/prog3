@@ -1,0 +1,7 @@
+  Automóvel: Carro; qualquer veículo que, movido a motor, se destina ao transporte de pessoas ou cargas.
+  Objetos:
+     Condutor: Quem aciona o freio, o acelerador, a ignição,a embragem
+     Freio: para o veículo, sem ele se o carro pararia após um agente externo intervir ou se a gasolina acabasse
+     Acelerador: aciona o carro para começar a se locomover ou aumentar a velocidade
+     Ignição: deixa todos os outros objetos funcionas, se o condutor não acionar a igniçãoo carro não liga
+     Embragem: mudar as marchas do carro
